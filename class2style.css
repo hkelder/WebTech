@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://i.ytimg.com/vi/PLAJTuLNI7A/maxresdefault.jpg);
+    background-repeat: repeat;
+    background-attachment: unset;
+    b
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#box {
+    display: block;
+    border-color: grey;
+    width: 350px;
+} 
+
+#box2 {
+    display: block;
+    width: 500px;
+    margin-left: 100px;   
+    border-color: grey;   
+}
+
+#box3 {
+    display: block;
+    width: 300px;
+    border-color: grey;
+    text-align: center;
+    
+}
+
+#box4 {
+    display: block;
+    width: 375px; 
+    border-color: grey;
+    text-align: center;
+}
+
+#box5 {
+    display: block;
+    margin: auto;   
+    text-align: center;
+    width: 350px;
+}
