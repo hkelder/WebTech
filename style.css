@@ -1,0 +1,38 @@
+p {
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+button {
+    color: black;
+    font-weight: bold;
+    background-color: white;
+}
+
+h1 {
+    color:yellow;
+    background-color: #009;
+    
+}
+
+title {
+    color: gray;
+}
+
+body {
+    font-size: 18px;
+    color: navy; 
+}
+#box {
+    display:block;
+    border-style:solid;
+    border-color:gray;
+    border-width:medium;
+    text-align:center;
+}
