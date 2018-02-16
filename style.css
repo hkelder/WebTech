@@ -15,10 +15,9 @@ button {
     background-color: white;
 }
 
-h1 {
+h1, h2, h3, h4 {
     color:yellow;
-    background-color: #009;
-    
+    background-color: #009;   
 }
 
 title {
